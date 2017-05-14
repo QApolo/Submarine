@@ -3,4 +3,4 @@ Problemas resueltos
 http://redprogramacioncompetitiva.org
 
 ## team Submarine: 
-@mezasergio @isanchez-aguilar @QAPolo
+@mezasergio @isanchez-aguilar @QApolo
