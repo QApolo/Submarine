@@ -1,13 +1,13 @@
-#Problemas
-* A: Adventure on the space
-- B: Balloons
-+ C: Cable Way 	
-* D: Dios Primes 	
-- E: Exact sum 	
-+ F: Funny Strings 	
-* G: General Pump System 	
-- H: Hidden card trick 	
-+ I: Intersecting lines 	
-* J: Jumping Frog 	
-- K: King of music 	
-+ L: Lowest terms fractions 	
+# Problemas
+* [A: Adventure on the space](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/A.pdf)
+- [B: Balloons](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/B.pdf)
++ [C: Cable Way](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/C.pdf)	
+* [D: Dios Primes](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/D.pdf) 	
+- [E: Exact sum](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/E.pdf) 	
++ [F: Funny Strings](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/F.pdf) 	
+* [G: General Pump System ](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/G.pdf)	
+- [H: Hidden card trick](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/H.pdf) 	
++ [I: Intersecting lines ](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/I.pdf)	
+* [J: Jumping Frog 	](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/J.pdf)
+- [K: King of music ](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/K.pdf)	
++ [L: Lowest terms fractions 	](https://github.com/QApolo/Submarine/blob/master/RPC/2017/Fecha4/pdf/L.pdf)
